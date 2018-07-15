@@ -1,2 +1,9 @@
 class Dog
-end 
+
+  def bark
+  end
+
+  def sit
+  end
+  
+end
