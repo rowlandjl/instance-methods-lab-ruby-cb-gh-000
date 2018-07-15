@@ -1,2 +1,9 @@
 class Person
-end 
+
+  def talk
+  end
+
+  def walk
+  end
+  
+end
